@@ -46,7 +46,6 @@ def list_articles():
             print(u'{}'.format(item))
     else:
         print('  No articles.')
-    print()
 
 
 def create_article(title):
@@ -68,9 +67,6 @@ def list_files_of_article(article_id):
             print('  {id} - {name}'.format(**item))
     else:
         print('  No files.')
-
-    print()
-
 
 def get_file_check_data(file_name):
     with open(file_name, 'rb') as fin:
@@ -113,8 +109,6 @@ def upload_parts(file_info, file_path):
     with open(file_path, 'rb') as fin:
         for part in result['parts']:
             upload_part(file_info, fin, part)
-    print()
-
 
 def upload_part(file_info, stream, part):
     udata = file_info.copy()
