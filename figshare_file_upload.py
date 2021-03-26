@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+'''
+Uploading files to figshare (Python 3)
+Adopted from https://docs.figshare.com/#upload_files_example_upload_on_figshare
+'''
 
 import hashlib
 import json
