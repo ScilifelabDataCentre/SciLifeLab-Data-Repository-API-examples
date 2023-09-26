@@ -5,7 +5,7 @@ Collection of example scripts for interacting with the [SciLifeLab Data Reposito
 
 The [SciLifeLab Data Repository](https://scilifelab.figshare.com), powered by Figshare, is a repository for publishing any kind of research-related data, e.g. documents, figures, or presentations. Figshare is an open data repository used by researchers in numerous disciplines. Through an agreement with Figshare, SciLifeLab offers researchers and facilities the opportunity to upload and publish their research data through a dedicated portal. 
 
-The repository is operated by the [SciLifeLab Data Centre](https://scilifelab/data/). You can find [detailed submission instructions here](https://www.scilifelab.se/data/repository/submission/) and [reviewing guidelines here](https://www.scilifelab.se/data/repository/review/). The submissions are reviewed by a team of moderators at the SciLifeLab Data Centre. Feel free to get in touch with us with any question: datacentre@scilifelab.se.
+The repository is operated by the [SciLifeLab Data Centre](https://scilifelab/data/). You can find [detailed submission instructions here](https://www.scilifelab.se/data/repository/submission/) and [reviewing guidelines here](https://www.scilifelab.se/data/repository/review/). The submissions are reviewed by a team of moderators at the SciLifeLab Data Centre. Feel free to get in touch with us with any question: figshare@scilifelab.se.
 
 ## About this repository
 
