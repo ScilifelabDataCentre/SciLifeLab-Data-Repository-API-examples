@@ -14,3 +14,8 @@ In order to make it easier for new users to start using the API for programmatic
 ## Figshare API
 
 Documentation for Figshare API [can be found here](https://docs.figshare.com/#!/articles/articles_list). To interact specifically with the SciLifeLab Data Repository, please create a personal token under your account -> Applications. The base URL is same as for Figshare in general.
+
+## License
+
+This project is licensed under the terms of the MIT license.
+Copyright (c) 2025 SciLifeLab Data Centre. 
